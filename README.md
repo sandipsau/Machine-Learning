@@ -9,3 +9,7 @@ Machine Learning Practice
 - NumPy → https://numpy.org/doc/
 - Pandas → https://pandas.pydata.org/docs/
 - Scikit-learn → https://scikit-learn.org/stable/
+- https://www.statlect.com/fundamentals-of-statistics/Gauss-Markov-theorem?utm_source=chatgpt.com
+- https://online.stat.psu.edu/stat462/
+- https://www.youtube.com/c/joshstarmer
+
